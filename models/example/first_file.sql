@@ -1,0 +1,1 @@
+Select * from ProcessMining.example where isBankrupt = True
