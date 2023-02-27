@@ -1,3 +1,3 @@
 
 {{ config(materialized='table') }}
-Select * from ProcessMining.example where isBankrupt = True
+Select * from process_mining.example where isBankrupt = True
